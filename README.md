@@ -21,3 +21,16 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
   
 ---
+### What have i been up to?
+  
+  - This month: 
+    Got back from holliday with the family and now trying not to freeze! 🥶
+  
+  - Last Month: 
+    Got home from work 🛳️ been to plenty of places 🇳🇴 🇫🇮 🇬🇱 🇸🇪 🇫🇷 🇪🇸 🇮🇹
+  
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFrancis23&theme=dark&background=696969)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFrancis23)](https://github.com/anuraghazra/github-readme-stats)
