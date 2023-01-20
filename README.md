@@ -1,5 +1,5 @@
 <div id="header" align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&center=true&width=500&height=100&lines=Jack+Francis;Fullstack+developer;Experienced+team+player;Forged+at+sea" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&height=100&lines=Jack+Francis;Fullstack+Developer;Experienced+team+player;Forged+at+sea" alt="Typing SVG" /></a>
   
   <div id="badges" align = "center">
     <a href="https://www.linkedin.com/in/jack-francis-6823691a2/" target="_blank">
