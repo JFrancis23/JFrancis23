@@ -25,10 +25,10 @@
 ### What have i been up to?
   
   - This month: 
-    Got back from holliday with the family and now trying not to freeze! 🥶
+    Continuing my learning with JS! 
   
   - Last Month: 
-    Got home from work 🛳️ been to plenty of places 🇳🇴 🇫🇮 🇬🇱 🇸🇪 🇫🇷 🇪🇸 🇮🇹
+    Got back from holliday with the family and now trying not to freeze! 🥶
   
 ---
 
