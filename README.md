@@ -25,7 +25,7 @@
 ### What have i been up to?
   
   - This month: 
-    Continuing my learning with JS! 
+    Continuing my learning with JS doing jobs around the house! 
   
   - Last Month: 
     Got back from holliday with the family and now trying not to freeze! 🥶
