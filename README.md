@@ -12,7 +12,7 @@
 ---
  ### About me:
   :man_technologist:
-  - 🌱 Im an aspiring fullstack developer looking to make a career change into tech. 💻
+  - 🌱 I'm an aspiring fullstack developer looking to make a career change into tech. 💻
   - 🛳️ Currently a navigation officer within the cruise industry. Sailing world-class cruiseships globaly.⚓
   
   
