@@ -25,10 +25,10 @@
 ### What have i been up to?
   
   - This month: 
-    Continuing my learning with JS doing jobs around the house! 
+    Continuing my learning with JS & React!  
   
   - Last Month: 
-    Got back from holliday with the family and now trying not to freeze! 🥶
+    Got back from work, this season in Alaska! 
   
 ---
 
