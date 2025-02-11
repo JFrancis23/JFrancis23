@@ -12,23 +12,13 @@
 ---
  ### About me:
   :man_technologist:
-  - 🌱 I'm an aspiring fullstack developer looking to make a career change into tech. 💻
-  - 🛳️ Currently a navigation officer within the cruise industry. Sailing world-class cruiseships globaly.⚓
-  
-  
+  - 🌱 Undertaking a degree apprenticeship in order to pivot into tech as a data scientist. 💻
+  - 🛳️ Previously a navigation officer within the cruise industry for 8 years. 
+
 ---
 ### My stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
-  
----
-### What have i been up to?
-  
-  - This month: 
-    Continuing my learning with JS & React!  
-  
-  - Last Month: 
-    Got back from work, this season in Alaska! 
   
 ---
 
