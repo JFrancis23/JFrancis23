@@ -21,5 +21,3 @@
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JFrancis23&theme=dark&background=696969)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFrancis23)](https://github.com/anuraghazra/github-readme-stats)
