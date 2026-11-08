@@ -10,7 +10,8 @@
 ---
  ### About me:
   :man_technologist:
-  - 🌱 Undertaking a degree apprenticeship in order to pivot into tech as a data scientist. 💻
+  - 🧑‍💻 Now working as a data engineer
+  - 🌱 Completed a degree apprenticeship in order to pivot into tech. 💻
   - 🛳️ Previously a navigation officer within the cruise industry for 8 years. 
 
 ---
